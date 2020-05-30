@@ -1,6 +1,6 @@
 const cantidad = 10;
 var arreglo = new Array();
-var tipo_terreno, planeta_encontrado;
+var planeta_encontrado, tipo_terreno;
 
 function buscar_planeta(elementos,nomb_terreno){
     var planeta, planeta_mayor_poblacion; 
